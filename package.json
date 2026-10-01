@@ -15,7 +15,7 @@
   "dependencies": {
     "@octokit/rest": "^22.0.1",
     "@octokit/webhooks": "^14.0.0",
-    "@stripe/stripe-js": "^3.0.0",
+    "@stripe/stripe-js": "^9.17.0",
     "@types/stripe": "^8.0.416",
     "cors": "^2.8.5",
     "dotenv": "^16.4.0",
